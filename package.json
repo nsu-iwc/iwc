@@ -1,0 +1,23 @@
+{
+  "name": "nsu-iwc-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsu-iwc/iwc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsu-iwc/iwc/issues"
+  },
+  "homepage": "https://github.com/nsu-iwc/iwc#readme",
+  "devDependencies": {
+    "purify-css": "^1.2.5"
+  }
+}
