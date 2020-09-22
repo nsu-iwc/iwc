@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nsu-iwc/iwc.git"
+    "url": "git <a href='https://github.com/nsu-iwc/iwc.git"'>https://github.com/nsu-iwc/iwc.git"</a>
   },
   "keywords": [],
   "author": "",
